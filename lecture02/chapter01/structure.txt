@@ -1,0 +1,27 @@
+MPseminar/
+└── Lec02/
+    ├── main.py
+    ├── config.py
+    ├── game_objects/
+    │   ├── __init__.py
+    │   └── rectangle.py
+    ├── input_handler/
+    │   ├── __init__.py
+    │   └── input_handler.py
+    ├── utils/
+    │   ├── __init__.py
+    │   └── utils.py
+    └── config.py
+
+Lec02/: 세미나의 프로젝트 폴더
+main.py: 메인 실행 스크립트 파일
+config.py: 환경 설정을 담은 파일
+game_objects/: 게임 오브젝트 관련 코드 폴더
+__init__.py: 패키지를 선언하는 빈 파일
+rectangle.py: Rectangle 클래스를 정의한 파일
+input_handler/: 입력 처리 관련 코드 폴더
+__init__.py: 패키지를 선언하는 빈 파일
+input_handler.py: 입력 처리 관련 함수를 정의한 파일
+utils/: 유틸리티 함수 관련 코드 폴더
+__init__.py: 패키지를 선언하는 빈 파일
+utils.py: 유틸리티 함수를 정의한 파일
