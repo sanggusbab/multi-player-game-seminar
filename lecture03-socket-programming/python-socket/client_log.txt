@@ -1,0 +1,43 @@
+[2023-08-17 15:10:58] Connected to server.
+[2023-08-17 15:10:58] Sent: Hello from client!
+[2023-08-17 15:12:17] Connected to server.
+[2023-08-17 15:12:17] Sent: Hello from client!
+[2023-08-17 15:12:17] Received: Welcome to the server!
+[2023-08-17 15:12:17] Disconnected from server.
+[2023-08-17 15:12:25] Connected to server.
+[2023-08-17 15:12:25] Sent: Hello from client!
+[2023-08-17 15:14:30] Connected to server.
+[2023-08-17 15:14:30] Sent: Hello from client!
+[2023-08-17 15:14:30] Received: Welcome to the server!
+[2023-08-17 15:14:30] Disconnected from server.
+[2023-08-17 15:14:32] Connected to server.
+[2023-08-17 15:14:32] Sent: Hello from client!
+[2023-08-17 15:14:32] Received: Welcome to the server!
+[2023-08-17 15:14:32] Disconnected from server.
+[2023-08-17 15:14:34] Connected to server.
+[2023-08-17 15:14:34] Sent: Hello from client!
+[2023-08-17 15:15:18] Connected to server.
+[2023-08-17 15:15:18] Sent: Hello from client!
+[2023-08-17 15:15:18] Received: Welcome to the server!Hello from client!
+[2023-08-17 15:15:18] Disconnected from server.
+[2023-08-17 15:15:23] Connected to server.
+[2023-08-17 15:15:23] Sent: Hello from client!
+[2023-08-17 15:15:23] Received: Welcome to the server!Hello from client!
+[2023-08-17 15:15:23] Disconnected from server.
+[2023-08-17 15:15:24] Connected to server.
+[2023-08-17 15:15:24] Sent: Hello from client!
+[2023-08-17 15:15:24] Received: Welcome to the server!
+[2023-08-17 15:15:24] Disconnected from server.
+[2023-08-17 15:15:25] Connected to server.
+[2023-08-17 15:15:25] Sent: Hello from client!
+[2023-08-17 15:15:25] Received: Welcome to the server!
+[2023-08-17 15:15:25] Disconnected from server.
+[2023-08-17 15:16:40] Connected to server.
+[2023-08-17 15:16:40] Sent: Hello from client!
+[2023-08-17 15:16:40] Received: Welcome to the server!Hello from client!
+[2023-08-17 15:16:40] Disconnected from server.
+[2023-08-17 15:16:41] Connected to server.
+[2023-08-17 15:16:41] Sent: Hello from client!
+[2023-08-17 15:16:41] Received: Welcome to the server!Hello from client!
+[2023-08-17 15:16:41] Disconnected from server.
+[2023-08-17 15:16:44] Connected to server.

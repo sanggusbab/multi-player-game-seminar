@@ -1,0 +1,14 @@
+project_directory/
+│
+├── client/
+│   ├── __init__.py
+│   ├── client.py
+│   ├── utils.py
+│   └── main.py
+│
+└── server/
+    ├── __init__.py
+    ├── server.py
+    ├── utils.py
+    └── main.py
+main.py
